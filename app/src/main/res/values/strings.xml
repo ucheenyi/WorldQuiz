@@ -1,0 +1,26 @@
+<resources>
+<string name="app_name">World Quiz</string>
+
+<string name="question1">1. What is United States of America commonly referred to as?</string>
+<string name="question1_option1">USOA</string>
+<string name="question1_option2">USA</string>
+<string name="question1_option3">SA</string>
+
+<string name="question2">2. Which Country Hosted 2018 FIFA World Cup?</string>
+
+<string name="question3">3. Name two Countries in Africa.</string>
+<string name="question3_option1">China</string>
+<string name="question3_option2">Nigeria</string>
+<string name="question3_option3">Peru</string>
+<string name="question3_option4">Senegal</string>
+
+<string name="question4">4. Which Country is reffered to as the Giant of Africa?</string>
+
+<string name="question5">5 France is among the G7 Countries?</string>
+<string name="question5_option1">Yes</string>
+<string name="question5_option2">No</string>
+
+
+<string name="submit_answers">Submit Answers</string>
+
+</resources>
